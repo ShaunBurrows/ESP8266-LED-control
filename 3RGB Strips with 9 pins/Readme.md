@@ -4,6 +4,6 @@ Modifed (thanks to)
 https://github.com/tttapa/ESP8266/tree/master/Examples/14.%20WebSocket/A-WebSocket_LED_control
 To control 3 RGB strips with 9 output pins.
 Strips start on warm white.
-A webserver is started on the ESP8266 to
+A webserver is started on the ESP8266 to deliver a webpage with controls for each strip
 
 Didn't want to fork entire project for one example.
